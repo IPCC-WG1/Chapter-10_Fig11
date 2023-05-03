@@ -1,5 +1,6 @@
 HISTORIC PRECIPITATION CHANGE IN THE SAHELIAN WEST AFRICAN MONSOON
 ==================================================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6787495.svg)](https://doi.org/10.5281/zenodo.6787495)
 
 Figure number: Figure 10.11
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 10
